@@ -32,7 +32,7 @@
   },
   "course_title": "Applied Molecular Biology Lab",
   "hide_download": false,
-  "course_description": "7.003 is an experimental biology course. You will spend most of your time in the teaching laboratory practicing fundamental techniques in molecular biology, genetics, and cell biology. In addition to learning how to accurately and safely perform these techniques, we want to help you understand how and why these techniques work and what scientific questions these techniques can address. The goal is for you to be able to design your own experiments to perform by the end of the semester.",
+  "course_description": "7.003 is an experimental biology course. You will spend most of your time in the teaching laboratory practicing fundamental techniques in molecular biology, genetics, and cell biology, and working with the model organism *Saccharomyces cerevisiae* (budding yeast). In addition to learning how to accurately and safely perform these techniques, we want to help you understand how and why these techniques work and what scientific questions these techniques can address. The goal is for you to be able to design your own experiments to perform by the end of the semester.",
   "department_numbers": [
     "7"
   ],
