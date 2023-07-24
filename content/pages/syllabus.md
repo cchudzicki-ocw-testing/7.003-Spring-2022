@@ -66,10 +66,10 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:      
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:       
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:      
-    1\. Data and Observations      
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:       
+    1\. Data and Observations       
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
@@ -93,6 +93,14 @@ There will be two problem set assignments during the semester. Questions on the 
 
 Problem sets can be revised and re-submitted for a regrade to earn **partial** credit for the missed points. The deadlines for submitting a regrade for each problem set are also listed in the Calendar(link).
 
+## Attendance Policy
+
+Learning in 7.003 is very active, whether it is completing experiments in the teaching lab or discussing scientific writing in SciComm. Thus, most of these experiences cannot be replicated outside of the lab/classroom setting. **For this reason, attendance at all laboratory, lectures, and SciComm sections is required.** Occasionally, an extraordinary circumstance may arise (illness, family emergency) that requires you to miss laboratory or SciComm. If you know that you will need to miss a lab session, you should contact a lab instructor to make arrangements to make up any missed work if possible. If you are going to miss your SciComm section meeting, you should contact your SciComm instructor and arrange for attending another SciComm section meeting on the same topic if possible. Absences from laboratory or SciComm will only be excused with a Dean’s note.
+
+Lab sessions are scheduled to run from 1:00 pm – 5:00 pm or 2:00 pm - 5:00 pm each day. On most days, all lab experiments can be completed by 5:00 pm or earlier, provided that you are organized and work efficiently in the lab. Due to the unpredictable nature of labwork however, experiments may often take longer than expected to complete. In addition, there are several busier lab days during the term that may last up till or slightly past 5:00 pm. Therefore, please plan on being present for the full lab session  each day when scheduling your own personal travel plans and other activities during the semester, as there is no way to know for sure ahead of time whether a lab day may end early or not. Leaving lab early before the day’s experiments are completed will result in deductions from your Lab Participation Grade.
+
+Students who miss a lab session and do not make up the missed work will receive zero points for that day’s Lab Participation Grade (unless they have a Dean’s note to excuse their absence). Note that students with an excused absence are still responsible for completing and submitting any missed lab notebook entries before the following lab session.  The teaching staff will work with students to help them get any data and observations from any experiments they missed.
+
 ## Laboratory Safety
 
-The teaching laboratories are regulated by the same local, state, and federal regulations as MIT's research laboratories. Students will receive safety instruction throughout the semester and are expected to follow the instructions of the staff on matters of safety and waste disposal. In addition, students are responsible for knowing the standard operating procedures (SOPs) for hazardous chemicals used in the laboratory as part of the preparation for laboratory each day. Students who have questions or concerns about laboratory safety should bring them to the attention of the lab instructors. See the Lab Resources section for complete details and information.
+The teaching laboratories are regulated by the same local, state, and federal regulations as MIT's research laboratories. Students will receive safety instruction throughout the semester and are expected to follow the instructions of the staff on matters of safety and waste disposal. In addition, students are responsible for knowing the standard operating procedures (SOPs) for hazardous chemicals used in the laboratory as part of the preparation for laboratory each day. Students who have questions or concerns about laboratory safety should bring them to the attention of the lab instructors. See the Lab Resources(link) section for complete details and information.
