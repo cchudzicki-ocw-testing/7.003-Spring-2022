@@ -211,3 +211,13 @@ Lab Day 19: COVID Target Design
 Lab Day 20: Magnetic Bead Selection
 
 *Day 19 Post-Lab & Day 20 Pre-Lab due*
+
+### W:
+
+*Problem Set #2 due*
+
+### Th:
+
+Lab Day 21: Optimize Bead Selection; FACS Analysis
+
+*Day 20 Post-Lab & Day 21 Pre-Lab due*
