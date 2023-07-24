@@ -33,3 +33,21 @@ Lab Day 1: Notl Library Digest; Pour Gel; Make Buffers
 Lab Day 2: Run Notl Digests on Gel; Transform Library PPY295
 
 *Day 1 Post-Lab & Day 2 Pre-Lab due*
+
+### Week 3:
+
+#### Tu:
+
+Lecture 3: Orthogonal Assays
+
+Lab Day 3: RP Transformants to aF; Make Media
+
+*Day 2 Post-Lab & Day 3 Pre-Lab due*
+
+#### Th:
+
+Lecture 4:
+
+Lab Day 4:
+
+*Day 3 Post Lab & Day 4 Pre-Lab due*
