@@ -27,3 +27,9 @@ Lecture 2: Yeast Mating Pathway
 Lab Day 1: Notl Library Digest; Pour Gel; Make Buffers
 
 *Day 1 Pre-Lab due*
+
+#### Th:
+
+Lab Day 2: Run Notl Digests on Gel; Transform Library PPY295
+
+*Day 1 Post-Lab & Day 2 Pre-Lab due*
