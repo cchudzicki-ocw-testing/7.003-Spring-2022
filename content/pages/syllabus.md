@@ -23,7 +23,7 @@ Lab: 2 sessions / week; one 3-hour session, one 4-hour session
 
 In this course, you will be working on the model organism, *Saccharomyces cerevisiae* (budding yeast). You will be performing a mutagenesis screen to isolate mutants defective in the yeast mating pathway. You will then work to characterize these mutants and identify the disrupted genes involved. Through lectures and daily lab questions related to each lab session, you will learn the biology behind the experiments that you will carry out in the laboratory and will also be exposed to techniques beyond the scope of this course.
 
-In addition to working in the laboratory, you will also be learning to communicate your scientific findings to a broader audience. Much of a practicing scientist's time is spent writing and communicating their results in the form of grant applications, manuscripts, talks, and poster presentations. In the biweekly Scientific Communication (SciComm) section meetings, you will explore the five parts of a scientific research article (Introductions, Methods, Results/Figures, Discussion, Title and Abstract). You will have the opportunity to read and critique papers from the biological science literature. Your major written assignment will be a long-term project based upon the experiments completed in the lab. This writing assignment will be drafted and revised over the course of the term. You will receive feedback on both writing and technical aspects of your draft, and you will be encouraged to use this feedback to improve your writing through frequent revisions.
+Please note: The on-campus version of 7.003 contains a Scientific Communication (SciComm) section, which is not represented here. 
 
 ## Laboratory Notebooks and Manuals
 
@@ -48,4 +48,12 @@ Laboratory Performance:
 
 {{< tdclose >}}{{< tdopen >}}
 Total of 50%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}{{< tdopen >}}
+15%
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+\[Scientific Communication, not represented on OCW\]
+{{< tdclose >}}{{< tdopen >}}
+\[35%\]
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
