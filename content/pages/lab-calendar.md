@@ -58,8 +58,24 @@ Lab Day 4: Streak aF-Resistant Mutants
 
 \[No Lab\]
 
-### Th:
+#### Th:
 
 Lab Day 5: Perform Shmoo Assay; Setup Halo; Mating; Spo
 
 *Day 4 Post-Lab & Day 5 Pre-Lab due*
+
+### Week 5:
+
+#### Tu:
+
+Lecture 4: Plasmid Recovery
+
+Lab Day 6: Analyze Halo, Mating, Spo
+
+*Day 5 Post-Lab & Day 6 Pre-Lab due*
+
+#### Th:
+
+Lab Day 7: Transform pRSQ2
+
+*Day 6 Post-Lab & Day 7 Pre-Lab due*
