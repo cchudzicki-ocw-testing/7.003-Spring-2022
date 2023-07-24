@@ -57,3 +57,9 @@ Problem Sets
 {{< tdclose >}}{{< tdopen >}}
 \[35%\]
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+### Laboratory Performance (50% of overall grade)
+
+#### Laboratory Notebooks (40% of overall grade):
+
+One important goal of 7.003 is to teach students how to keep a lab notebook. Maintaining a complete and accurate written record of your experiments and results is crucial for when you (or others) need to repeat what you've done or troubleshoot experiments when things go wrong. Lab notebooks are also an excellent place to keep track of the rationale for all your experiments and to organize your data analysis. In addition, lab notebooks serve as a record to support data that is published in the scientific literature or used in a grant or patent.
