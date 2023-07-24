@@ -201,3 +201,13 @@ Lab Day 19: COVID Target Design
 ### Fr:
 
 *Day 13-15 Post-Lab Regrades (optional)*
+
+## Week 13:
+
+### Tu:
+
+\[No Lecture\]
+
+Lab Day 20: Magnetic Bead Selection
+
+*Day 19 Post-Lab & Day 20 Pre-Lab due*
