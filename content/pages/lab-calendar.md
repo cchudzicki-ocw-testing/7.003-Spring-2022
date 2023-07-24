@@ -98,4 +98,26 @@ Lab Day 8: gDNA Prep, Part 1 
 
 Lab Day 9: gDNA Prep, Part 2; EcoRI gDNA Digest; Pour Gel
 
-*Day 8 Post-Lab & Day 9 Pre-Lab*
+*Day 8 Post-Lab & Day 9 Pre-Lab due*
+
+### Week 7:
+
+#### Tu:
+
+Lecture 6: Gene Expression Analysis
+
+Lab Day 10: Run EcoRI Digest Gel; Setup Ligations
+
+*Day 9 Post-Lab & Day 10 Pre-Lab due*
+
+#### Th:
+
+Lab Day 11: Purify Ligations; Setup iPCR; Pour Gel
+
+*Day 10 Post-Lab & Day 11 Pre-Lab due*
+
+#### Fr:
+
+*Problem Set #1 due*
+
+*Day 5-8 Post-Lab Regrades (optional)*
