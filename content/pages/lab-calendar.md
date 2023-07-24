@@ -121,3 +121,7 @@ Lab Day 11: Purify Ligations; Setup iPCR; Pour Gel
 *Problem Set #1 due*
 
 *Day 5-8 Post-Lab Regrades (optional)*
+
+### Week 8:
+
+*Spring Break: No Lecture or Lab*
