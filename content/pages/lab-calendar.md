@@ -125,3 +125,19 @@ Lab Day 11: Purify Ligations; Setup iPCR; Pour Gel
 ## Week 8:
 
 *Spring Break: No Lecture or Lab*
+
+## Week 9:
+
+### Tu:
+
+Lecture 7: Next-Gen Sequencing Applications
+
+Lab Day 12: Run iPCR Gel; Purify iPCR; Send iPCR for Sequencing
+
+*Day 12 Pre-Lab due*
+
+### Th:
+
+Lab Day 13: BLAST Analysis
+
+*Day 12 Post-Lab & Day 13 Pre-Lab due*
