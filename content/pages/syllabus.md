@@ -66,12 +66,21 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:  
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:   
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:  
-    1\. Data and Observations  
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:   
+    1\. Data and Observations   
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
 
 Post-Lab notebook entries can be revised and re-submitted for a regrade to earn **full** credit for the missed points. The deadlines for submitting a regrade for each Post-Lab notebook entry are listed in the Calendar(link) section.
+
+#### Lab Participation Grade (10% of overall grade):
+
+The daily Lab Participation Grade will be based on the following categories:
+
+1. Preparation and organization
+2. Participation and effort towards labwork
+3. Participation and effort towards In-Lab Questions (ILQs)
+4. Safety
