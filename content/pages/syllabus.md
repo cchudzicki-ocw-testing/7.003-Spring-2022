@@ -27,4 +27,6 @@ In addition to working in the laboratory, you will also be learning to communica
 
 ## Laboratory Notebooks and Manuals
 
-Maintaining an updated record of your daily work in lab is an essential component of research. Therefore, each student must maintain an electronic laboratory notebook using the LabArchives platform.
+Maintaining an updated record of your daily work in lab is an essential component of research. Therefore, each student must maintain an electronic laboratory notebook using the LabArchives\[add link\] platform.
+
+Each student will need a lab manual for 7.003.  The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry.  A digital PDF copy of the Spring 2022 lab manual is available in the Lab Resources\[add link\] section.
