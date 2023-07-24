@@ -145,3 +145,23 @@ Lab Day 13: BLAST Analysis
 ### Fr:
 
 *Problem Set #1 Regrade due*
+
+## Week 10:
+
+### Tu:
+
+Lecture 8: Genetic Engineering Techniques
+
+Lab Day 14: RNA Prep; Pour Gel
+
+*Day 13 Post-Lab & Day 14 Pre-Lab due*
+
+### Th:
+
+Lab Day 15: Run RNA Gel; Make cDNA
+
+*Day 14 Post-Lab & Day 15 Pre-Lab due*
+
+### Fr:
+
+*Day 9-12 Post-Lab Regrades (optional)*
