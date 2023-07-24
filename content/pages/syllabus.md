@@ -63,3 +63,15 @@ Problem Sets
 #### Laboratory Notebooks (40% of overall grade):
 
 One important goal of 7.003 is to teach students how to keep a lab notebook. Maintaining a complete and accurate written record of your experiments and results is crucial for when you (or others) need to repeat what you've done or troubleshoot experiments when things go wrong. Lab notebooks are also an excellent place to keep track of the rationale for all your experiments and to organize your data analysis. In addition, lab notebooks serve as a record to support data that is published in the scientific literature or used in a grant or patent.
+
+As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
+
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:  
+    1\. Aims
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:  
+    1\. Data and Observations  
+    2\. Summary and Conclusions
+
+Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
+
+Post-Lab notebook entries can be revised and re-submitted for a regrade to earn **full** credit for the missed points. The deadlines for submitting a regrade for each Post-Lab notebook entry are listed in the Calendar(link) section.
