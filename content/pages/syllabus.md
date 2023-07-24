@@ -66,10 +66,10 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:     
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:      
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:     
-    1\. Data and Observations     
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:      
+    1\. Data and Observations      
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
@@ -92,3 +92,7 @@ Each day in the lab, you will be evaluated on how you work in the lab. We will b
 There will be two problem set assignments during the semester. Questions on the problem sets will cover material related to topics and experiments discussed in lecture and lab class. The due dates for these two problem sets are listed in the Calendar(link).
 
 Problem sets can be revised and re-submitted for a regrade to earn **partial** credit for the missed points. The deadlines for submitting a regrade for each problem set are also listed in the Calendar(link).
+
+## Laboratory Safety
+
+The teaching laboratories are regulated by the same local, state, and federal regulations as MIT's research laboratories. Students will receive safety instruction throughout the semester and are expected to follow the instructions of the staff on matters of safety and waste disposal. In addition, students are responsible for knowing the standard operating procedures (SOPs) for hazardous chemicals used in the laboratory as part of the preparation for laboratory each day. Students who have questions or concerns about laboratory safety should bring them to the attention of the lab instructors. See the Lab Resources section for complete details and information.
