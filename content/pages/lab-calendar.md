@@ -181,3 +181,23 @@ Lab Day 16: Setup cDNA Test PCR; Pour Gel
 Lab Day 17: Run cDNA PCR Gel; Setup qPCR Plate
 
 *Day 17 Pre-Lab due*
+
+## Week 12:
+
+### Tu:
+
+Lecture 10: COVID Diagnostics
+
+Lab Day 18: Analyze qPCR Results
+
+*Day 17 Post-Lab & Day 18 Pre-Lab due*
+
+### Th:
+
+Lab Day 19: COVID Target Design
+
+ *Day 18 Post-Lab & Day 19 Pre-Lab due*
+
+### Fr:
+
+*Day 13-15 Post-Lab Regrades (optional)*
