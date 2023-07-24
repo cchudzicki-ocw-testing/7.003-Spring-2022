@@ -70,7 +70,7 @@ Lab Day 5: Perform Shmoo Assay; Setup Halo; Mating; Spo
 
 Lecture 4: Plasmid Recovery
 
-Lab Day 6: Analyze Halo, Mating, Spo
+Lab Day 6: Analyze Halo; Mating; Spo
 
 *Day 5 Post-Lab & Day 6 Pre-Lab due*
 
@@ -83,3 +83,19 @@ Lab Day 7: Transform pRSQ2
 #### Fr:
 
 *Day 1-4 Post-Lab Regrades (optional)*
+
+### Week 6:
+
+#### Tu:
+
+Lecture 5: DNA Sequencing methods & Analysis
+
+Lab Day 8: gDNA Prep, Part 1 
+
+*Day 8 Pre-Lab due*
+
+#### Th:
+
+Lab Day 9: gDNA Prep, Part 2; EcoRI gDNA Digest; Pour Gel
+
+*Day 8 Post-Lab & Day 9 Pre-Lab*
