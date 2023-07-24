@@ -165,3 +165,19 @@ Lab Day 15: Run RNA Gel; Make cDNA
 ### Fr:
 
 *Day 9-12 Post-Lab Regrades (optional)*
+
+## Week 11:
+
+### Tu:
+
+Lecture 9: Directed Evolution & Yeast Surface Display
+
+Lab Day 16: Setup cDNA Test PCR; Pour Gel
+
+*Day 15 Post-Lab & Day 16 Pre-Lab due*
+
+### Th:
+
+Lab Day 17: Run cDNA PCR Gel; Setup qPCR Plate
+
+*Day 17 Pre-Lab due*
