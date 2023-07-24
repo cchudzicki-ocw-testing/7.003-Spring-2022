@@ -221,3 +221,21 @@ Lab Day 20: Magnetic Bead Selection
 Lab Day 21: Optimize Bead Selection; FACS Analysis
 
 *Day 20 Post-Lab & Day 21 Pre-Lab due*
+
+## Week 14:
+
+### Tu:
+
+\[No Lecture\]
+
+Lab Day 22: Analyze Bead Selection Results
+
+*Day 21 Post-Lab & Day 22 Pre-Lab due*
+
+### Th:
+
+Lab Day 23: Clonal Analysis
+
+*Day 22 Post-Lab & Day 23 Pre-Lab due*
+
+*Day 23 Post-Lab due by 11:59 PM*
