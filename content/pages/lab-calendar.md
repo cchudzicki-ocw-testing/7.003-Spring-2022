@@ -79,3 +79,7 @@ Lab Day 6: Analyze Halo, Mating, Spo
 Lab Day 7: Transform pRSQ2
 
 *Day 6 Post-Lab & Day 7 Pre-Lab due*
+
+#### Fr:
+
+*Day 1-4 Post-Lab Regrades (optional)*
