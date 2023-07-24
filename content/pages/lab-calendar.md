@@ -141,3 +141,7 @@ Lab Day 12: Run iPCR Gel; Purify iPCR; Send iPCR for Sequencing
 Lab Day 13: BLAST Analysis
 
 *Day 12 Post-Lab & Day 13 Pre-Lab due*
+
+### Fr:
+
+*Problem Set #1 Regrade due*
