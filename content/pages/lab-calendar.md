@@ -239,3 +239,9 @@ Lab Day 23: Clonal Analysis
 *Day 22 Post-Lab & Day 23 Pre-Lab due*
 
 *Day 23 Post-Lab due by 11:59 PM*
+
+### Fr:
+
+*Day 17-21 Post-Lab Regrades (optional)*
+
+*Problem Set #2 Regrade (optional)*
