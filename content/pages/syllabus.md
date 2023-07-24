@@ -66,10 +66,10 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:   
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:    
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:   
-    1\. Data and Observations   
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:    
+    1\. Data and Observations    
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
@@ -84,3 +84,5 @@ The daily Lab Participation Grade will be based on the following categories:
 2. Participation and effort towards labwork
 3. Participation and effort towards In-Lab Questions (ILQs)
 4. Safety
+
+Each day in the lab, you will be evaluated on how you work in the lab. We will be evaluating whether you are prepared and on time for lab; whether you are organized, effective, and productive at the bench; whether you make an effort to answer daily In-Lab Questions (ILQs) and participate in lab discussions; and whether you work safely in the lab. Points will be deducted from a student’s safety score for violations of laboratory safety protocols, such as wearing open-toed shoes, eating/drinking/disposing of food trash in lab,  or improper disposal of hazardous chemicals. We take safety very seriously in the teaching  laboratories, and expect you to do the same. It is your responsibility to read, understand and practice the guidelines described in the 7.003 Lab Safety Sheet(link) during the Training Lab orientation, and in the online General Biosafety Training course.
