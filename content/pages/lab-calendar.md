@@ -6,9 +6,9 @@ draft: false
 title: Calendar
 uid: 66870b31-072b-47d4-a316-e3874edd12ed
 ---
-### Week 1:
+## Week 1:
 
-#### Tu:
+### Tu:
 
 Lecture 1: Genetic Screens, Model Organisms, transposon mutagenesis
 
@@ -18,9 +18,9 @@ Lab: Class Logistics
 
 Lab: Training Lab
 
-### Week 2:
+## Week 2:
 
-#### Tu:
+### Tu:
 
 Lecture 2: Yeast Mating Pathway
 
@@ -28,15 +28,15 @@ Lab Day 1: Notl Library Digest; Pour Gel; Make Buffers
 
 *Day 1 Pre-Lab due*
 
-#### Th:
+### Th:
 
 Lab Day 2: Run Notl Digests on Gel; Transform Library PPY295
 
 *Day 1 Post-Lab & Day 2 Pre-Lab due*
 
-### Week 3:
+## Week 3:
 
-#### Tu:
+### Tu:
 
 Lecture 3: Orthogonal Assays
 
@@ -44,29 +44,29 @@ Lab Day 3: RP Transformants to aF; Make Media
 
 *Day 2 Post-Lab & Day 3 Pre-Lab due*
 
-#### Th:
+### Th:
 
 Lab Day 4: Streak aF-Resistant Mutants
 
 *Day 3 Post Lab & Day 4 Pre-Lab due*
 
-### Week 4:
+## Week 4:
 
-#### Tu:
+### Tu:
 
 \[No Lecture\]
 
 \[No Lab\]
 
-#### Th:
+### Th:
 
 Lab Day 5: Perform Shmoo Assay; Setup Halo; Mating; Spo
 
 *Day 4 Post-Lab & Day 5 Pre-Lab due*
 
-### Week 5:
+## Week 5:
 
-#### Tu:
+### Tu:
 
 Lecture 4: Plasmid Recovery
 
@@ -74,7 +74,7 @@ Lab Day 6: Analyze Halo; Mating; Spo
 
 *Day 5 Post-Lab & Day 6 Pre-Lab due*
 
-#### Th:
+### Th:
 
 Lab Day 7: Transform pRSQ2
 
@@ -84,9 +84,9 @@ Lab Day 7: Transform pRSQ2
 
 *Day 1-4 Post-Lab Regrades (optional)*
 
-### Week 6:
+## Week 6:
 
-#### Tu:
+### Tu:
 
 Lecture 5: DNA Sequencing methods & Analysis
 
@@ -94,15 +94,15 @@ Lab Day 8: gDNA Prep, Part 1 
 
 *Day 8 Pre-Lab due*
 
-#### Th:
+### Th:
 
 Lab Day 9: gDNA Prep, Part 2; EcoRI gDNA Digest; Pour Gel
 
 *Day 8 Post-Lab & Day 9 Pre-Lab due*
 
-### Week 7:
+## Week 7:
 
-#### Tu:
+### Tu:
 
 Lecture 6: Gene Expression Analysis
 
@@ -110,18 +110,18 @@ Lab Day 10: Run EcoRI Digest Gel; Setup Ligations
 
 *Day 9 Post-Lab & Day 10 Pre-Lab due*
 
-#### Th:
+### Th:
 
 Lab Day 11: Purify Ligations; Setup iPCR; Pour Gel
 
 *Day 10 Post-Lab & Day 11 Pre-Lab due*
 
-#### Fr:
+### Fr:
 
 *Problem Set #1 due*
 
 *Day 5-8 Post-Lab Regrades (optional)*
 
-### Week 8:
+## Week 8:
 
 *Spring Break: No Lecture or Lab*
