@@ -19,3 +19,11 @@ Lab: Class Logistics
 Lab: Training Lab
 
 ### Week 2:
+
+#### Tu:
+
+Lecture 2: Yeast Mating Pathway
+
+Lab Day 1: Notl Library Digest; Pour Gel; Make Buffers
+
+*Day 1 Pre-Lab due*
