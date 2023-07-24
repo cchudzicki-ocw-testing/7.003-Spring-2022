@@ -4,6 +4,6 @@ leftnav:
   pageRef: /pages/syllabus
   weight: 10
 - identifier: 66870b31-072b-47d4-a316-e3874edd12ed
-  name: Lab Calendar
+  name: Calendar
   pageRef: /pages/lab-calendar
   weight: 20
