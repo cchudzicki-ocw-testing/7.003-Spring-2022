@@ -46,8 +46,20 @@ Lab Day 3: RP Transformants to aF; Make Media
 
 #### Th:
 
-Lecture 4:
-
-Lab Day 4:
+Lab Day 4: Streak aF-Resistant Mutants
 
 *Day 3 Post Lab & Day 4 Pre-Lab due*
+
+### Week 4:
+
+#### Tu:
+
+\[No Lecture\]
+
+\[No Lab\]
+
+### Th:
+
+Lab Day 5: Perform Shmoo Assay; Setup Halo; Mating; Spo
+
+*Day 4 Post-Lab & Day 5 Pre-Lab due*
