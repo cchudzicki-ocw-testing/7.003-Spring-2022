@@ -7,3 +7,7 @@ leftnav:
   name: Calendar
   pageRef: /pages/lab-calendar
   weight: 20
+- identifier: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  name: Lab Resources
+  pageRef: /pages/lab-resources
+  weight: 30
