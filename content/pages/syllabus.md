@@ -30,3 +30,22 @@ In addition to working in the laboratory, you will also be learning to communica
 Maintaining an updated record of your daily work in lab is an essential component of research. Therefore, each student must maintain an electronic laboratory notebook using the LabArchives\[add link\] platform.
 
 Each student will need a lab manual for 7.003.  The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry.  A digital PDF copy of the Spring 2022 lab manual is available in the Lab Resources\[add link\] section.
+
+## Grading Information
+
+A student's final grade in 7.003 is determined based on their performance in three general areas: laboratory work & assignments, problem sets, and SciComm. These areas contribute to the final grade as follows:
+
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
+Activities
+{{< thclose >}}{{< thopen >}}
+Percentages
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
+Laboratory Performance:
+
+- Laboratory Notebooks (40%)
+- Laboratory Participation (10%)
+
+{{< tdclose >}}{{< tdopen >}}
+Total of 50%
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
