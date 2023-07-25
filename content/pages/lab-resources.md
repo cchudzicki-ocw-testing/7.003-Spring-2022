@@ -14,7 +14,7 @@ The manual contains the experiments and background information for the course an
 
 7.003 Genetics Lab Manual (PDF)
 
-### Lab Safety Guidelines
+### {{% resource_link "dfffde89-7e38-4941-8b8d-c59505873b95" "Lab Safety Guidelines" %}}
 
  
 
