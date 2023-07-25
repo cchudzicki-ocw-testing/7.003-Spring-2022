@@ -6,7 +6,7 @@ draft: false
 title: Lab Resources
 uid: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
 ---
-In this section, you will find the lab manual for this course, plus guidelines for lab safety, lab notebook instructions, and helpful links.
+In this section, you will find the lab manual for this course, guidelines for lab safety, lab notebook instructions, and helpful links.
 
 ### 7.003 Genetics Lab Manual
 
