@@ -11,3 +11,8 @@ leftnav:
   name: Lab Resources
   pageRef: /pages/lab-resources
   weight: 30
+- identifier: dfffde89-7e38-4941-8b8d-c59505873b95
+  name: Lab Safety Guidelines
+  pageRef: /pages/lab-safety-guidelines
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 10
