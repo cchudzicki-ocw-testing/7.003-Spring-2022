@@ -43,11 +43,11 @@ uid: dfffde89-7e38-4941-8b8d-c59505873b95
 
 ## Procedures for handling/disposal of hazardous or toxic chemicals/waste
 
-### **Handling toxic or hazardous chemicals:**
+### Handling toxic or hazardous chemicals:
 
 Before you come to lab each day you must carefully read over the protocols for the day in your lab manual. In the protocols we have highlighted the harmful chemicals used on certain days. Make sure that you are aware of the hazards of these chemicals before lab, and wear the appropriate protective clothing when using them (gloves, lab coats, and/or safety glasses).
 
-### **Disposal of toxic or hazardous chemicals:**
+### Disposal of toxic or hazardous chemicals:
 
 Daily disposal notes describing how to properly dispose of all hazardous material will be posted by the sinks every lab day. Check them each day for specific disposal instructions - if you have any questions, ask a TA or instructor. Certain chemicals cannot be disposed of down the sink (e.g. ethanol). Again, by reading your manual before you come to lab, you will know which chemicals require special disposal procedures. Chemicals that cannot be disposed of down the sink are collected in labelled waste bottles in the fume hoods located in Alcoves 1 - 3. Certain chemicals are incompatible and cannot be collected in the same bottle. ALWAYS READ THE RED LABEL ON THE WASTE BOTTLE BEFORE ADDING YOUR CHEMICAL. If in doubt, ask a TA or instructor. If you accidentally add the wrong chemical to a waste bottle, immediately inform a TA or instructor, as particular combinations of incompatible chemicals can potentially be explosive/reactive.
 
