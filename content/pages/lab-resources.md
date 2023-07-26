@@ -16,10 +16,6 @@ The manual contains the experiments and background information for the course an
 
 ### {{% resource_link "dfffde89-7e38-4941-8b8d-c59505873b95" "Lab Safety Guidelines" %}}
 
- 
-
 ### {{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Lab Notebook Instructions" %}}
-
- 
 
 ### External Resources & Links
