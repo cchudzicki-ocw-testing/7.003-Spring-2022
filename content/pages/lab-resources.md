@@ -18,4 +18,4 @@ The manual contains the experiments and background information for the course an
 
 ### {{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Lab Notebook Instructions" %}}
 
-### Helpful Resources & Links
+### {{% resource_link "8c4dc102-4680-4aab-be07-e144b8cea3dd" "Helpful Resources & Links" %}}
