@@ -16,3 +16,8 @@ leftnav:
   pageRef: /pages/lab-safety-guidelines
   parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
   weight: 10
+- identifier: 4cf9122b-fd70-43dd-ac22-b526d77c36db
+  name: Lab Notebook Instructions
+  pageRef: /pages/lab-notebook-instructions
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 20
