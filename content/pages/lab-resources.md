@@ -18,7 +18,7 @@ The manual contains the experiments and background information for the course an
 
  
 
-### Lab Archives and Notebook Instructions
+### Lab Notebook Instructions
 
  
 
