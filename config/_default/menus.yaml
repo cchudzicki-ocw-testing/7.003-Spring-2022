@@ -21,3 +21,8 @@ leftnav:
   pageRef: /pages/lab-notebook-instructions
   parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
   weight: 20
+- identifier: 8c4dc102-4680-4aab-be07-e144b8cea3dd
+  name: Helpful Resources and Links
+  pageRef: /pages/external-resources-and-links
+  parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
+  weight: 30
