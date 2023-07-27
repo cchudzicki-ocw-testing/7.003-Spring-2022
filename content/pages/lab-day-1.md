@@ -27,3 +27,16 @@ Part 1.3: Prepare 1X TAE, 10X TE, and 10X LiAc
 {{< tdclose >}}{{< tdopen >}}
 18-20
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+In-Lab Questions (PDF)
+
+Pre-Lab & Post-Lab Instructions
+
+### Day 1 Pre-Lab Tips and Reminders:
+
+- Remember to include an overall “Course Aim” for the entire 7.003 lab project (in addition to the daily Aim for just Day 1).
+- When writing your aims, you only need to describe overall what you are doing and how/why you are doing it. You do not need to list out or describe details from individual steps in the protocol.
+
+### Day 1 Post-Lab Tips and Reminders:
+
+- You did not obtain any results for Day 1, but remember to record any deviations from the lab manual protocol and record any unique reagents that your lab group used.
