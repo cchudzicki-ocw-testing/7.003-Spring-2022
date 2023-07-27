@@ -21,10 +21,10 @@ uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 
 ### Lab Day 3:
 
-- Part 1.6: Replica-plating onto `&#945;`\-F plates
+- Part 1.6: Replica-plating onto &#945;-F plates
 - Part 1.7: Prepare YPD liquid media
 
 ### Lab Day 4:
 
-- Part 1.8: Identifying F resistant candidates
-- Part 1.9: Streaking F resistant candidates onto new plates
+- Part 1.8: Identifying &#945;-F resistant candidates
+- Part 1.9: Streaking &#945;-F resistant candidates onto new plates
