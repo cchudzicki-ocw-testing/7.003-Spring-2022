@@ -6,7 +6,7 @@ draft: false
 title: 'Experiment 1: Genetic Screen'
 uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 ---
-## Experiment 1: Genetic Screen for factor Resistant Yeast Mutants
+## Experiment 1: Genetic Screen for `&alpha;`\-factor Resistant Yeast Mutants
 
 ### Lab Day 1:
 
