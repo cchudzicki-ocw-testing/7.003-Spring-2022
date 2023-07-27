@@ -11,6 +11,10 @@ leftnav:
   name: Lab Resources
   pageRef: /pages/lab-resources
   weight: 30
+- identifier: 7670d955-bb24-4e23-a65e-42b696c945f7
+  name: 'Experiment 1: Genetic Screen'
+  pageRef: /pages/experiment-1-genetic-screen
+  weight: 40
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
