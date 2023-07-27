@@ -6,7 +6,7 @@ draft: false
 title: 'Experiment 1: Genetic Screen for alpha-Factor Resistant Yeast Mutants'
 uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 ---
-## Lab Day 1:
+## {{% resource_link "6958d9f0-a84c-4524-bcf9-0ec2be792a04" "Lab Day 1:" %}}
 
 - Part 1.1: Digestion of mTn3 transposon library with NotI
 - Part 1.2: Pour agarose gel
