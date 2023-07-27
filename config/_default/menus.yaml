@@ -34,3 +34,8 @@ leftnav:
   pageRef: /pages/external-resources-and-links
   parent: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
   weight: 30
+- identifier: 6958d9f0-a84c-4524-bcf9-0ec2be792a04
+  name: Lab Day 1
+  pageRef: /pages/lab-day-1
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 10
