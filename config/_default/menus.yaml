@@ -15,6 +15,10 @@ leftnav:
   name: 'Experiment 1: Genetic Screen'
   pageRef: /pages/experiment-1-genetic-screen
   weight: 40
+- identifier: b6a3e37b-39fc-4b65-9180-c825a2012e92
+  name: 'Experiment 2: Testing Mutants'
+  pageRef: /pages/experiment-2-testing-the-945-factor-resistant-mutants
+  weight: 50
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
