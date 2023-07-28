@@ -12,7 +12,7 @@ uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 - Part 1.2: Pour agarose gel
 - Part 1.3: Prepare 1X TAE, 10X TE, and 10X LiAc
 
-## Lab Day 2:
+## {{% resource_link "d6ba9fd8-eae5-4399-8d9a-6a0bb1af4fdb" "Lab Day 2:" %}}
 
 - Part 1.4: Gel analysis of mTn3 plasmid library DNA digest
 - Part 1.5: Transformation of mTn3 library into yeast
