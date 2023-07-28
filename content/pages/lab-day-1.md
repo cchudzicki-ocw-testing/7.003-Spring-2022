@@ -30,7 +30,7 @@ Part 1.3: Prepare 1X TAE, 10X TE, and 10X LiAc
 
 In-Lab Questions (PDF)
 
-Pre-Lab & Post-Lab Instructions
+{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
 
 ### Day 1 Pre-Lab Tips and Reminders:
 
