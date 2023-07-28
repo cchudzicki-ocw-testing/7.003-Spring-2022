@@ -28,4 +28,14 @@ In-Lab Questions (PDF)
 
 {{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
 
-## Day 2 Pre-Lab Tips and Reminders:
+### Day 2 Pre-Lab Tips and Reminders:
+
+- Include Aims for all parts (Part 1.4 & 1.5). To save space, you can combine the Aims from different protocol parts into a single section. Remember, keep the Aims short (five sentences or less!)
+
+### Day 2 Post-Lab Tips and Reminders:
+
+- Be sure to label the gel photo such that it is clear what is loaded in each lane and what the sizes of all ladder bands are.
+- Remember to state where the bromophenol blue dye runs on the gel.
+- You should discuss the results of each lane of your gel. If certain lanes had similar overall results or purposes, you may comment on those lanes together as a group.
+    - What was the expected overall result for each lane and why? (Did you expect to see DNA or not, and if so, what size DNA fragments?)
+    - What can you conclude overall from your gel based on whether or not you saw the expected results for each lane (think back to what your original Aim was for running this gel in the first place!)? Explain your reasoning. If you did not get the expected results, what might be a possible reason to explain the difference?
