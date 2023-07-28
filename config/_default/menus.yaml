@@ -44,3 +44,8 @@ leftnav:
   pageRef: /pages/experiment-1-lab-day-2
   parent: 7670d955-bb24-4e23-a65e-42b696c945f7
   weight: 20
+- identifier: f5bf75fd-f7f8-4762-a93b-63714ea58340
+  name: Lab Day 3
+  pageRef: /pages/experiment-1-lab-day-3
+  parent: 7670d955-bb24-4e23-a65e-42b696c945f7
+  weight: 30
