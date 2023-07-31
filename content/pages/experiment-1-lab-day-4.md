@@ -13,13 +13,13 @@ Pages
 {{< thclose >}}{{< thopen >}}
 Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Part 1.8: Identifying F resistant candidates
+Part 1.8: Identifying α-F resistant candidates
 {{< tdclose >}}{{< tdopen >}}
 34
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Part 1.9: Streaking F resistant candidates onto new plates
+Part 1.9: Streaking α-F resistant candidates onto new plates
 {{< tdclose >}}{{< tdopen >}}
 34-36
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
