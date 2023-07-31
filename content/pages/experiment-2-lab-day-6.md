@@ -46,3 +46,6 @@ Day 6 In-Lab Questions (PDF)
     - What was the expected result for each control? Why did you expect that result?
     - What can you conclude from each control based on whether or not you got the expected results? If you did not get the expected result for your controls, what might be a potential reason why to explain the difference?
 - For each orthogonal assay, discuss the results for each of your six αF-resistant mutants (similar samples can be discussed together as a group if you want).
+    - What were the results of each mutant strain? How did they compare with your controls, if applicable?
+    - What can you conclude about each mutant strain based on the result for each assay? Explain your reasoning.
+- What were the three “best” mutants that you picked? Why did you pick them?
