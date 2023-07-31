@@ -17,7 +17,7 @@ uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 - Part 1.4: Gel analysis of mTn3 plasmid library DNA digest
 - Part 1.5: Transformation of mTn3 library into yeast
 
-## Lab Day 3:
+## {{% resource_link "f5bf75fd-f7f8-4762-a93b-63714ea58340" "Lab Day 3:" %}}
 
 - Part 1.6: Replica-plating onto α-F plates
 - Part 1.7: Prepare YPD liquid media
