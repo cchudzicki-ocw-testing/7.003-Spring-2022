@@ -10,7 +10,7 @@ In this section, you will find the lab manual for this course, guidelines for la
 
 ### 7.003 Genetics Lab Manual
 
-The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry. 
+The manual contains the experiments and background information for the course and details the procedures to be completed during each day in the lab. The experiments in this course are divided into 24 days spent in the lab.
 
 7.003 Genetics Lab Manual (PDF)
 
