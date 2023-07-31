@@ -15,17 +15,17 @@ Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 1.1: Digestion of mTn3 transposon library with NotI
 {{< tdclose >}}{{< tdopen >}}
-14-16
+14–16
 {{< tdclose >}}{{< tdopen rowspan="3" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 1.2: Pour agarose gel
 {{< tdclose >}}{{< tdopen >}}
-16-18
+16–18
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 1.3: Prepare 1X TAE, 10X TE, and 10X LiAc
 {{< tdclose >}}{{< tdopen >}}
-18-20
+18–20
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 1 In-Lab Questions (PDF)
