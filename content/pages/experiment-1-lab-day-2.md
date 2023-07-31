@@ -7,11 +7,11 @@ title: Experiment 1, Lab Day 2
 uid: d6ba9fd8-eae5-4399-8d9a-6a0bb1af4fdb
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
- 
+Parts
 {{< thclose >}}{{< thopen >}}
- 
+Pages
 {{< thclose >}}{{< thopen >}}
- 
+Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 1.4: Gel analysis of mTn3 plasmid library DNA digest
 {{< tdclose >}}{{< tdopen >}}
