@@ -15,13 +15,13 @@ Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 1.4: Gel analysis of mTn3 plasmid library DNA digest
 {{< tdclose >}}{{< tdopen >}}
-21-23
+21–23
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 1.5: Transformation of mTn3 library into yeast
 {{< tdclose >}}{{< tdopen >}}
-23-28
+23–28
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 2 In-Lab Questions (PDF)
