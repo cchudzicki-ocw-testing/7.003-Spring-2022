@@ -22,7 +22,7 @@ uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 - Part 1.6: Replica-plating onto α-F plates
 - Part 1.7: Prepare YPD liquid media
 
-## Lab Day 4:
+## {{% resource_link "7b9cb8b5-77c5-44e1-9901-672e967cabdb" "Lab Day 4:" %}}
 
 - Part 1.8: Identifying α-F resistant candidates
 - Part 1.9: Streaking α-F resistant candidates onto new plates
