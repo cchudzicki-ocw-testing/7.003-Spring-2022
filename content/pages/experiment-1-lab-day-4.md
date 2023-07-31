@@ -23,3 +23,16 @@ Part 1.9: Streaking α-F resistant candidates onto new plates
 {{< tdclose >}}{{< tdopen >}}
 34-36
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+In-Lab Questions (PDF)
+
+[Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+
+### Day 4 Pre-Lab Tips and Reminders:
+
+- Remember to include Aims for Parts 1.8 and 1.9.
+
+### Day 4 Post-Lab Tips and Reminders:
+
+- Record the number of αF-resistant colonies on each replica-plate.
+- Record which library pool each of your final selected six αF-resistant mutants originated from (why do you think this might be important to know?).
