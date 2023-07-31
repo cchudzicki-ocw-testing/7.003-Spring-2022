@@ -29,7 +29,7 @@ Please note: The on-campus version of 7.003 contains a Scientific Communication 
 
 Maintaining an updated record of your daily work in lab is an essential component of research. Therefore, each student is required to maintain an electronic laboratory notebook using the [LabArchives](https://www.labarchives.com/) platform.
 
-Each student will need a lab manual for 7.003.  The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry.  A digital PDF copy of the Spring 2022 lab manual is available in the Lab Resources\[add link\] section.
+Each student will need a lab manual for 7.003.  The manual contains the experiments and background information for the course and is required to perform the lab and prepare each day’s laboratory notebook entry.  A digital PDF copy of the Spring 2022 lab manual is available in the {{% resource_link "335b2c1e-2e1e-43b3-88de-7887c4136ec9" "Lab Resources" %}} section.
 
 ## Grading Information
 
@@ -66,15 +66,15 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:        
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:         
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:        
-    1\. Data and Observations        
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:         
+    1\. Data and Observations         
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM in order to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. If you are absent from lab for a non-emergency reason (e.g. interviews, athletics, etc), you are still responsible for submitting your notebook entries in on time on the appropriate lab day. The only way for a late notebook entry to receive full credit is if excused with a Dean’s note in the event of illness or other emergencies.
 
-Post-Lab notebook entries can be revised and re-submitted for a regrade to earn **full** credit for the missed points. The deadlines for submitting a regrade for each Post-Lab notebook entry are listed in the Calendar(link) section.
+Post-Lab notebook entries can be revised and re-submitted for a regrade to earn **full** credit for the missed points. The deadlines for submitting a regrade for each Post-Lab notebook entry are listed in the {{% resource_link "66870b31-072b-47d4-a316-e3874edd12ed" "Calendar" %}} section.
 
 #### Lab Participation Grade (10% of overall grade):
 
