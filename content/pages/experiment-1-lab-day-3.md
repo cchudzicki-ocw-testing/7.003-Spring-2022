@@ -7,13 +7,13 @@ title: Experiment 1, Lab Day 3
 uid: f5bf75fd-f7f8-4762-a93b-63714ea58340
 ---
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
- 
+Parts
 {{< thclose >}}{{< thopen >}}
- 
+Pages
 {{< thclose >}}{{< thopen >}}
- 
+Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Part 1.6: Replica-plating onto &#945;-Factors plates
+Part 1.6: Replica-plating onto α-Factors plates
 {{< tdclose >}}{{< tdopen >}}
 29-31
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
