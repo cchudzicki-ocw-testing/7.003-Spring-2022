@@ -27,3 +27,22 @@ Part 2.7: Analysis of Sporulation Assay results
 {{< tdclose >}}{{< tdopen >}}
 48–50
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+Day 6 In-Lab Questions (PDF)
+
+[Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+
+### Day 6 Pre-Lab Tips and Reminders:
+
+- Remember to describe Aims for all parts (Parts 2.5 – 2.7)
+
+### Day 6 Post-Lab Tips and Reminders:
+
+- Include both the halo measurement data and the photos of the actual halo plates (properly labeled!)
+- Include a properly labeled (computer-generated) graph plotting the -factor concentration vs. average halo diameter.
+- Include both recorded observations from your mating plate and the photo of the actual mating plate (properly labeled!)
+- Include both the Sporulation Assay cell counts and the calculated sporulation rates.
+- For each orthogonal assay, discuss the results for each control sample/plate/strain/condition (similar samples can be discussed together as a group if you want).
+    - What was the expected result for each control? Why did you expect that result?
+    - What can you conclude from each control based on whether or not you got the expected results? If you did not get the expected result for your controls, what might be a potential reason why to explain the difference?
+- For each orthogonal assay, discuss the results for each of your six αF-resistant mutants (similar samples can be discussed together as a group if you want).
