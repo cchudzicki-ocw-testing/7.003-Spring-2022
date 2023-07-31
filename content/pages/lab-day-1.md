@@ -9,9 +9,9 @@ uid: 6958d9f0-a84c-4524-bcf9-0ec2be792a04
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Parts
 {{< thclose >}}{{< thopen >}}
-pp.
+Pages
 {{< thclose >}}{{< thopen >}}
-Manual
+Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 1.1: Digestion of mTn3 transposon library with NotI
 {{< tdclose >}}{{< tdopen >}}
