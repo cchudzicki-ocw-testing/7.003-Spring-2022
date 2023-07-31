@@ -15,13 +15,13 @@ Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 1.6: Replica-plating onto α-Factors plates
 {{< tdclose >}}{{< tdopen >}}
-29-31
+29–31
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 1.7: Prepare YPD liquid media
 {{< tdclose >}}{{< tdopen >}}
-31-33
+31–33
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 3 In-Lab Questions (PDF)
