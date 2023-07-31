@@ -24,7 +24,7 @@ Part 1.9: Streaking α-F resistant candidates onto new plates
 34-36
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-In-Lab Questions (PDF)
+Day 4 In-Lab Questions (PDF)
 
 [Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
 
