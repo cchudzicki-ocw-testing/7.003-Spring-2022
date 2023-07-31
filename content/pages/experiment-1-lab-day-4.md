@@ -21,7 +21,7 @@ Part 1.8: Identifying α-F resistant candidates
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 1.9: Streaking α-F resistant candidates onto new plates
 {{< tdclose >}}{{< tdopen >}}
-34-36
+34–36
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 4 In-Lab Questions (PDF)
