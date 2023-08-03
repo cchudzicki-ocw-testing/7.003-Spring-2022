@@ -39,7 +39,7 @@ Day 6 In-Lab Questions (PDF)
 ### Day 6 Post-Lab Tips and Reminders:
 
 - Include both the halo measurement data and the photos of the actual halo plates (properly labeled!)
-- Include a properly labeled (computer-generated) graph plotting the -factor concentration vs. average halo diameter.
+- Include a properly labeled (computer-generated) graph plotting the α-factor concentration vs. average halo diameter.
 - Include both recorded observations from your mating plate and the photo of the actual mating plate (properly labeled!)
 - Include both the Sporulation Assay cell counts and the calculated sporulation rates.
 - For each orthogonal assay, discuss the results for each control sample/plate/strain/condition (similar samples can be discussed together as a group if you want).
