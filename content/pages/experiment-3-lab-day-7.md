@@ -24,10 +24,10 @@ Lab Day 7 In-Lab Questions (PDF)
 
 {{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
 
-## Day 7 Pre-Lab Tips and Reminders:
+### Day 7 Pre-Lab Tips and Reminders:
 
 - What is your Aim for Part 3.1?
 
-## Day 7 Post-Lab Notebook Tips and Reminders:
+### Day 7 Post-Lab Notebook Tips and Reminders:
 
 - There is no Post-Lab for Day 7 because you did not obtain any results today, but you should make a note of any deviations you made from the lab manual protocols for your own records.
