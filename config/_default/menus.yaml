@@ -19,6 +19,10 @@ leftnav:
   name: 'Experiment 2: Testing Mutants'
   pageRef: /pages/experiment-2-testing-the-945-factor-resistant-mutants
   weight: 50
+- identifier: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  name: 'Experiment 3: Identifying Mutants'
+  pageRef: /pages/experiment-3-identifying-the-alpha-resistant-mutants-by-plasmid-recovery
+  weight: 60
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
@@ -64,3 +68,38 @@ leftnav:
   pageRef: /pages/experiment-2-lab-day-6
   parent: b6a3e37b-39fc-4b65-9180-c825a2012e92
   weight: 20
+- identifier: 39b626be-972b-414f-8fab-e2b2a1465a10
+  name: Lab Day 7
+  pageRef: /pages/experiment-3-lab-day-7
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 10
+- identifier: 5722f263-2c18-4c7c-8804-08ed85008277
+  name: Lab Day 8
+  pageRef: /pages/experiment-3-lab-day-8
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 20
+- identifier: 2ab1d172-713a-4b3a-854f-ca1be78254bc
+  name: Lab Day 9
+  pageRef: /pages/experiment-3-lab-day-9
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 30
+- identifier: 730ded72-bbd8-4dd6-be7c-b34aa2bc6071
+  name: Lab Day 10
+  pageRef: /pages/experiment-3-lab-day-10
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 40
+- identifier: 33d3ab2d-9329-44f1-bf83-945fb0744e8d
+  name: Lab Day 11
+  pageRef: /pages/experiment-3-lab-day-11
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 50
+- identifier: 81362cfe-9931-4528-b1ca-fe40b5298781
+  name: Lab Day 12
+  pageRef: /pages/experiment-3-lab-day-12
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 60
+- identifier: f98a139d-e5b5-4c40-8902-5589735b33ee
+  name: Lab Day 13
+  pageRef: /pages/experiment-3-lab-day-13
+  parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
+  weight: 70
