@@ -19,3 +19,15 @@ Part 3.2: Genomic DNA prep from pRSQ2 transformants
 {{< tdclose >}}{{< tdopen >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+Day 8 In-Lab Questions (PDF)
+
+{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
+
+### Day 8 Pre-Lab Tips and Reminders:
+
+- What are your Aims for Part 3.2?
+
+### Day 8 Post-Lab Tips and Reminders:
+
+-  Record colony counts for all transformation plates. Remember to comment on each transformation plate in terms of expected vs. observed results and what you can conclude from each (similar plates/samples may be discussed together as a group if you want).
