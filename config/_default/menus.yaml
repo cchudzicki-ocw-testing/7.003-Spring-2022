@@ -27,26 +27,6 @@ leftnav:
   name: 'Experiment 4: Analyzing RNA Expression'
   pageRef: /pages/experiment-4-analyzing-rna-expression-of-alpha-resistant-mutants
   weight: 70
-- identifier: 4a14285a-bd70-4355-a425-2c55c4d3844d
-  name: Lab Day 14
-  pageRef: /pages/experiment-4-lab-day-14
-  weight: 80
-- identifier: e412ab40-c7c8-4c1b-aa13-7f375977c289
-  name: Lab Day 15
-  pageRef: /pages/experiment-4-lab-day-15
-  weight: 90
-- identifier: d797aa43-9a6a-47b0-9d53-fa68b984b1fb
-  name: Lab Day 16
-  pageRef: /pages/experiment-4-lab-day-16
-  weight: 100
-- identifier: 9a3e5f6a-1a89-4ea7-a02d-15f4c2b19871
-  name: Lab Day 17
-  pageRef: /pages/experiment-4-lab-day-17
-  weight: 110
-- identifier: b8979dac-32ae-4c66-9b8c-d406381d4b17
-  name: Lab Day 18
-  pageRef: /pages/experiment-4-lab-day-18
-  weight: 120
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
@@ -127,3 +107,28 @@ leftnav:
   pageRef: /pages/experiment-3-lab-day-13
   parent: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
   weight: 70
+- identifier: 4a14285a-bd70-4355-a425-2c55c4d3844d
+  name: Lab Day 14
+  pageRef: /pages/experiment-4-lab-day-14
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 10
+- identifier: e412ab40-c7c8-4c1b-aa13-7f375977c289
+  name: Lab Day 15
+  pageRef: /pages/experiment-4-lab-day-15
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 20
+- identifier: d797aa43-9a6a-47b0-9d53-fa68b984b1fb
+  name: Lab Day 16
+  pageRef: /pages/experiment-4-lab-day-16
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 30
+- identifier: 9a3e5f6a-1a89-4ea7-a02d-15f4c2b19871
+  name: Lab Day 17
+  pageRef: /pages/experiment-4-lab-day-17
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 40
+- identifier: b8979dac-32ae-4c66-9b8c-d406381d4b17
+  name: Lab Day 18
+  pageRef: /pages/experiment-4-lab-day-18
+  parent: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  weight: 50
