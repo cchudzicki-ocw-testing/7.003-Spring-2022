@@ -23,6 +23,10 @@ leftnav:
   name: 'Experiment 3: Identifying Mutants'
   pageRef: /pages/experiment-3-identifying-the-alpha-resistant-mutants-by-plasmid-recovery
   weight: 60
+- identifier: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
+  name: 'Experiment 4: Analyzing RNA Expression'
+  pageRef: /pages/experiment-4-analyzing-rna-expression-of-alpha-resistant-mutants
+  weight: 70
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
