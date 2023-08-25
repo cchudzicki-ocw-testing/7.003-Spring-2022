@@ -15,13 +15,13 @@ Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 3.6: Gel analysis of digested genomic DNA
 {{< tdclose >}}{{< tdopen >}}
-63-64
+63–64
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 3.7: Ligation of the genomic DNA digest
 {{< tdclose >}}{{< tdopen >}}
-64-66
+64–66
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 10 In-Lab Questions (PDF)
