@@ -27,3 +27,15 @@ Part 3.10: Pour agarose gel
 {{< tdclose >}}{{< tdopen >}}
 71–72
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+Day 11 In-Lab Questions (PDF)
+
+{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
+
+### Day 11 Pre-Lab Tips and Reminders:
+
+- Remember to include Aims for all parts (Parts 3.8 – 3.10)
+
+### Day 11 Post-Lab Tips and Reminders:
+
+- There is no Post-Lab for Day 11 because you did not obtain any results today, but you should make a note of any deviations you made from the lab manual protocols for your own records.
