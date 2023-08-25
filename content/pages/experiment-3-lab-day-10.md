@@ -13,19 +13,15 @@ pages
 {{< thclose >}}{{< thopen >}}
 Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Part 3.3: Complete genomic DNA prep from pRSQ2 transformants
+Part 3.6: Gel analysis of digested genomic DNA
 {{< tdclose >}}{{< tdopen >}}
-58-59
-{{< tdclose >}}{{< tdopen rowspan="3" >}}
+63-64
+{{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Part 3.4: Restriction enzyme digest of the genomic DNA
+Part 3.7: Ligation of the genomic DNA digest
 {{< tdclose >}}{{< tdopen >}}
-60-61
-{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Part 3.5: Pour agarose gel
-{{< tdclose >}}{{< tdopen >}}
-61-62
+64-66
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 10 In-Lab Questions (PDF)
@@ -34,10 +30,11 @@ Day 10 In-Lab Questions (PDF)
 
 ### Day 10 Pre-Lab Tips and Reminders:
 
-- Include Aims for all parts (Parts 3.3 – 3.5).
+- Remember to include Aims for Parts 3.6 and 3.7 today.
 
 ### Day 10 Post-Lab Tips and Reminders:
 
-- Record all spectrophotometer measurements/results.
-- Remember to include the calculations for setting up your digest reactions.
-- How successful do you think your overall genomic DNA prep was, based on your spectrophotometer results? What can you conclude from the A<sub>260</sub>/A<sub>280</sub> ratios?
+- Be sure to label the gel photo such that it’s clear what is loaded in each lane and what the sizes of all ladder bands are.
+- You should discuss each lane of your gel (lanes/samples with similar overall results can be discussed together as a group if you want).
+    - What was the expected overall result for each lane? Why?
+    - What can you conclude based on whether or not you saw the expected result for each lane? Explain your reasoning. If you did not get the expected results, what might be a possible reason to explain the difference?
