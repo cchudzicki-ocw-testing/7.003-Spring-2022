@@ -30,4 +30,6 @@ Day 18 In-Lab Questions (PDF)
 
 #### Day 18 Post-Lab Notebook Tips & Reminders:
 
-- Follow all the instructions and answer all the questions on the qPCR Analysis Worksheet posted on Canvas when completing your Day 18 Post-Lab.
+- Follow all the instructions and answer all the questions on the qPCR Analysis Worksheet (see below) when completing your Day 18 Post-Lab.
+
+Day 18 qPCR Analysis Worksheet (PDF)
