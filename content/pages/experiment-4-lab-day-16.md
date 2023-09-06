@@ -13,15 +13,15 @@ pages
 {{< thclose >}}{{< thopen >}}
 Source
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-Part 4.3: Gel analysis of isolated RNA
+Part 4.5: Perform FUS1 test PCR with cDNA
 {{< tdclose >}}{{< tdopen >}}
-89–91
+94–96
 {{< tdclose >}}{{< tdopen rowspan="2" >}}
 7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Part 4.4: Preparation of cDNA from RNA
+Part 4.6: Pour agarose gel
 {{< tdclose >}}{{< tdopen >}}
-91–93
+96–97
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Day 16 In-Lab Questions (PDF)
@@ -30,4 +30,8 @@ Day 16 In-Lab Questions (PDF)
 
 #### Day 16 Pre-Lab Notebook Tips & Reminders:
 
+- Remember to include Aims for all parts (Parts 4.5 – 4.6).
+
 #### Day 16 Post-Lab Notebook Tips & Reminders:
+
+- There is no Post-Lab for Day 16 since you did not get any data, but you should make a note of any deviations you made from the lab manual protocols for your own records.
